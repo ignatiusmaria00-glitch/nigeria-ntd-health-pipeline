@@ -1,6 +1,7 @@
-# nigeria-ntd-health-pipeline
-# 🇳🇬 Nigeria Neglected Tropical Diseases (NTD) Data Pipeline & Dashboard
 
+# 🇳🇬 Nigeria Neglected Tropical Diseases (NTD) Data Pipeline & Dashboard
+## 📸 Dashboard Preview
+![Nigeria NTD Dashboard Preview](dashboard_preview.png)
 An end-to-end data analytics and engineering project tracking public health indicators in Nigeria. This project demonstrates data extraction, cleaning, SQLite database loading, advanced SQL analysis, and interactive dashboarding.
 
  Tech Stack
